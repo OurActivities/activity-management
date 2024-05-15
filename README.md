@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+activity-management
+# Activity Management
 
-Based on "ABC" at https://www.abc.com/
+Based on "iotawise" at https://github.com/redpangilinan/iotawise
 
 ## 100 - Introduction
 
