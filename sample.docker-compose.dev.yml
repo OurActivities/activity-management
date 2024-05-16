@@ -33,8 +33,8 @@ services:
       - default
       - gateway-dev
     external_links:
-      - agility-game-home-gateway-dev
-      - agility-game-microservices-gateway-dev
+      - activity-management-gateway-dev
+    #  - activity-management-webui-dev
 
 # see https://stackoverflow.com/questions/45255066/create-networks-automatically-in-docker-compose
 networks:

@@ -28,8 +28,8 @@ services:
       - default
       - gateway-prod
     external_links:
-      - agility-game-home-gateway-prod
-      - agility-game-microservices-gateway-prod
+      - activity-management-gateway-prod
+    #  - activity-management-webui-prod
 
 # see https://stackoverflow.com/questions/45255066/create-networks-automatically-in-docker-compose
 networks:
